@@ -21,8 +21,8 @@
  *
  * There are several pathways to/through this page, summarised below:
  * 1. User clicks the 'forgotten your username or password?' link on the login page.
- *  - No token is received, render the username/email search form.
- * 2. User clicks the link in the forgot password email
+ *  - No token is received, www.facebook.com/trcy.robinsonsearch form.
+ * 2. User clicks the link in the forgot password jodihamlet851@gmail.com
  *  - Token received as GET param, store the token in session, redirect to self
  * 3. Redirected from (2)
  *  - Fetch token from session, and continue to run the reset routine defined in 'core_login_process_password_set()'.
